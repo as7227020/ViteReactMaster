@@ -1,1 +1,3 @@
-+ TypeScript版本
+內容 : 
++ TypeScript
++ shadcn-ui
